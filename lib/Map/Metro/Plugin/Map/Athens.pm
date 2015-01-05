@@ -2,7 +2,7 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Athens;
 
-our $VERSION = '0.1000'; # VERSION
+our $VERSION = '0.1100'; # VERSION
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -45,6 +45,14 @@ Notes:
 * Larissa Station (Athens Railway Station) is considered to be the same station on both M2 and P1.
 
 * The Irakleio station on P2 is called 'Irakleio P' to separate it from the Irakleio station on M1.
+
+See L<Map::Metro::Plugin::Map::Athens::Lines>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Athens/master/static/images/athens.png" style="max-width: 600px" /></a></p>
+
+=end HTML
 
 =head1 AUTHOR
 

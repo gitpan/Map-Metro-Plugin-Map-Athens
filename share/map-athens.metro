@@ -98,11 +98,11 @@ Pentelis
 # on to airport
 
 --lines
-M1|M1|Metro 1
-M2|M2|Metro 2
-M3|M3|Metro 3
-P1|P1|Proastiakos 1
-P2|P2|Proastiakos 2
+M1|M1|Metro 1|color:#00853f, width:6
+M2|M2|Metro 2|color:#ee3124, width:6
+M3|M3|Metro 3|color:#0093d0, width:6
+P1|P1|Proastiakos 1|color:#0069aa, width:9
+P2|P2|Proastiakos 2|color:#fdb913, width:9
 
 --transfers
 

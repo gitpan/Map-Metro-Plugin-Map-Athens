@@ -1,5 +1,13 @@
 Revision history for Map-Metro-Plugin-Map-Athens
 
+0.1100 2015-01-05T17:47:25Z CET
+ [Documentation]
+ - Added a graphviz image of the network.
+ - Added line and station documentation.
+
+ [Enhancements]
+ - Changed dist.ini to use @Iller
+
 0.1000 2015-01-02T12:30:36Z CET
  - Initial release
 
